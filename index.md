@@ -1,4 +1,4 @@
-# Smile
+# Help Document
 
 ## Read documentation in English: [Link](https://github.com/Empty-Smile/Empty-Smile.github.io/blob/docs/en-us.md)
 
