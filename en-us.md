@@ -75,3 +75,7 @@ When you activate an activation code on a device, the activation code will be ti
 When this prompt appears, just restart CSGO and re-inject the DLL, pay attention to restart CSGO instead of Steam. Fully restarting Steam without Smile will result in a VAC ban.
 
 Also, this prompt is unavoidable and usually appears at the beginning of a match. It will appear if you use the functions of the Rage class. Using the Legit function will appear probabilistically.
+
+- ### Invite Newcomer Rewards
+
+After you have purchased a monthly activation key (only monthly activation keys, excluding days, years, and perpetuity), you will have the right to invite new people. Whenever a new person you invite consumes, please feel free to contact us through Aidian DM and prove that you are the inviter. After confirming that the new person is your invite, you will get 30% of the new person's payment amount. Each newcomer can only bind one inviter.
