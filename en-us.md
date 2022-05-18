@@ -62,19 +62,27 @@ You are not banned by VAC, you are banned by OW or Untrusted. Please note that b
 
 You somehow managed to break Smile and mess up the VAC bypass. If you fully restart Steam after launching Smile, the VAC bypass will no longer be active and Smile will tell you.
 
-**What compensation will I get if my account is banned?**
+***
+
+- ### What compensation will I get if my account is banned?
 
 Not at all, because as long as you keep the above rules in mind, you won't be able to get banned.
+
+***
 
 - ### Bind device
 
 When you activate an activation code on a device, the activation code will be tied to your current device and will not work on any other device. If you need to replace the device, please contact us via email eptsmile@yeah.net.
+
+***
 
 - ### Prompt "Contains third-party files, please restart the game"
 
 When this prompt appears, just restart CSGO and re-inject the DLL, pay attention to restart CSGO instead of Steam. Fully restarting Steam without Smile will result in a VAC ban.
 
 Also, this prompt is unavoidable and usually appears at the beginning of a match. It will appear if you use the functions of the Rage class. Using the Legit function will appear probabilistically.
+
+***
 
 - ### Invite Newcomer Rewards
 
